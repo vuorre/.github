@@ -5,3 +5,4 @@ Here, you will find all the code (and most data) related to our [academic public
 ## People
 
 - [Matti Vuorre](https://github.com/mvuorre) (Principal investigator, [Tilburg University](https://www.tilburguniversity.edu/staff/m-j-vuorre))
+- [Lucija Sorić](https://github.com/soriclucija) (PhD Candidate, [Tilburg University](https://www.tilburguniversity.edu/staff/l-soric))
